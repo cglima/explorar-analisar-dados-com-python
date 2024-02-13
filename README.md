@@ -15,3 +15,5 @@ O machine learning funciona identificando as relações entre os valores de dado
 ## Desafio: analisar dados de voo
 
 - Analisar um conjunto de dados do mundo real com registros de voos do Departamento de Transporte dos EUA? Você encontrará o desafio no notebook [01 - Flights Challenge](https://github.com/MicrosoftDocs/ml-basics/blob/master/challenges/01%20-%20Flights%20Challenge.ipynb)
+
+- [x] Desafio completo! [01 - Flights Challenge](https://github.com/cglima/explorar-analisar-dados-com-python/blob/master/01%20-%20Flights%20Challenge.ipynb)
